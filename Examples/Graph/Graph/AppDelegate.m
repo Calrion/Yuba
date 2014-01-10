@@ -28,7 +28,7 @@
     
 	graphView.showMarker = YES;
 	graphView.lineWidth = 1.4;
-	graphView.drawBullet = YES;
+	graphView.drawBullets = YES;
     graphView.drawBottomMarker = NO;
     graphView.useMinValue = YES;
     graphView.minValue = 0.0;
